@@ -7,8 +7,8 @@ This Power BI project presents a comprehensive Credit Customer Insights Dashboar
  
 The dashboard is powered by a dataset containing:
 
-Customer demographics (Age, Gender, Marital Status, Education, Employment)
+• Customer demographics (Age, Gender, Marital Status, Education, Employment)
 
-Credit account details (Account Status, Credit Limit, Usage)
+• Credit account details (Account Status, Credit Limit, Usage)
 
-Risk-related fields (Credit Score, Late Payments, etc.)
+• Risk-related fields (Credit Score, Late Payments, etc.)
