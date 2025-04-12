@@ -1,5 +1,4 @@
 # Credit-Card-BI-Dashboard
 This is a CREDIT CARD BI DASHBOARD
 
-• This project is built using the Excel, SQL and Power BI.
-• Designed a Credit Card Customer and Credit Card Transaction Report using Visualizations.
+This Power BI project presents a comprehensive Credit Customer Insights Dashboard that analyzes customer demographic and financial data to support decision-making in a financial or banking context. The dashboard delivers visual analytics and KPIs to better understand customer segments, credit status, and risk levels.
